@@ -1,0 +1,103 @@
+IF YOU CAN DO IS GOOD, IF NOT THAT IS OK TOO FOR PRODUCT TAGS
+Product tags are words that a customer chooses for their product, they are clickable like a search. When a product has same tags, it will show list of products with that tag. See Articles and read a blog post, on bottom right it shows tags that you can click.
+
+Example is I list a product called: Handmade All Natural Soap and I use tags: soap, handmade, all natural, fresh, scented
+Then when a customer looks at my product detail page, these tags show, customer can click the word "handmade" and will show list of products with same tag.
+
+--------------------------------
+
+MUST BE ABLE TO ENABLE OR DISABLE IN ADMIN AREA:
+Need to add text area box in Earnings >> seller Balance >> When I click on edit, a popup windows comes up so I can add or minus money from a users account. I need seller to be able to see why I added or minus money. I see in admin area, I am unable to make balance - minus, I need to be able to do this.
+
+Sellers must be able to see in Payment History what was credited or debited, please :)
+See screen shot of text area field where seller can see why it was credit or debited. 
+Admin can input information in text field and is shown to seller.
+
+
+Email to seller and admin when seller account has been credited: 
+Hello FIRSTNAME LASTNAME - STORENAME, 
+Your account has been credited in the amount of: $AMOUNT on DATE
+for: DESCRIPTION
+Please login to your account to view your updated account balance.
+
+
+Email to seller and admin when seller account has been debited: This means I change their balance to less than it was.
+If their account was $100 and I change it to $90, that is a debit. 
+
+Hello FIRSTNAME LASTNAME - STORENAME, 
+Your account has been debited in the amount of: $AMOUNT on DATE.
+This amount has been taken from your account balance for:
+DESCRIPTION
+Please login to your account to view your updated account balance.
+
+
+Email to seller when they list a new product:
+Hello FIRSTNAME LASTNAME - STORENAME
+Your account has been charged a listing fee of $.25 cents
+for your recent new product addition or relisting of PRODUCT NAME.
+You may login to your account to view this charge under the listing fee link.
+Happy Selling!
+
+
+Email to seller when store has been banned/inactivated: 
+Hello, FIRSTNAME LASTNAME, 
+Your store STORENAME has been deactivated.
+Here are some reasons which might have caused your store to be deactivated: 
+Unpaid fees (Owe $10 or more), spam posts, mass produced items listed, etc.
+If you feel this in error, please contact support at admin@handmadeguild.com or 
+if you wish to make a payment for fees due, please make payment using paypal
+to: admin@handmadeguild.com, once payment is received your account will be
+reactivated if you had a balance on your account of $10 or more. 
+Make sure to leave a note in payment notes with your name and store name.
+
+
+Email to seller when a badge has been awarded: 
+Hello FIRSTNAME LASTNAME - STORENAME,
+Congratulations, you have been awarded a new badge! 
+Please login and view your profile to view the new badge. 
+Keep up the great work!
+
+
+Email to seller when a badge has been removed:
+
+Verified Badge:
+
+Hello FIRSTNAME LASTNAME - STORENAME, 
+Oh no! It looks as if your Verified Seller badge was removed!
+Possible reasons could be your name and address does not match
+what we have on file. If you believe this was an error, please 
+contact support at: admin@handmadeguild.com
+
+Messaging Badge:
+
+Hello FIRSTNAME LASTNAME - STORENAME,
+Oh no! It looks as if your Fast Messaging badge was removed!
+Possible reasons could be you have since taken longer to
+respond to messages. If you believe this was an error, please 
+contact support at: admin@handmadeguild.com
+
+
+Fast shipping Badge:
+
+Oh no! It looks as if your Fast Shipping badge was removed!
+Possible reasons could be you have since taken longer to
+ship out orders to customers. If you believe this was an error, 
+please contact support at: admin@handmadeguild.com
+
+
+Reviews Badge:
+
+Oh no! It looks as if your Reviews badge was removed!
+Possible reasons could be you have went under the rating 
+of 4.7 stars, let's get this back up, you got this!
+If you believe this was an error, please contact support 
+at: admin@handmadeguild.com
+
+
+
+
+
+
+
+
+
